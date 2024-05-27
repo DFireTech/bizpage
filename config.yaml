@@ -100,7 +100,7 @@ params:
     darkmode:
       textColor: "#000000"
       secondaryTextColor: "#3a3d3d"
-      backgroundColor: "#989d9e"
+      backgroundColor: "#393a3b"
       secondaryBackgroundColor: "#152b49"
       primaryColor: "#5dddee"
       secondaryColor: "#246c86"
