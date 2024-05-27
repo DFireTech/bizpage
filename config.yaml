@@ -97,13 +97,13 @@ params:
     primaryColor:
     secondaryColor:
 
-  darkmode:
-    textColor: 000000
-    secondaryTextColor: 3a3d3d
-    backgroundColor: 989d9e
-    secondaryBackgroundColor: 152b49
-    primaryColor: 5dddee
-    secondaryColor: 246c86
+    darkmode:
+      textColor: "#000000"
+      secondaryTextColor: "#3a3d3d"
+      backgroundColor: "#989d9e"
+      secondaryBackgroundColor: "#152b49"
+      primaryColor: "#5dddee"
+      secondaryColor: "#246c86"
 
   # If you want to customize the menu, you can change it here
   navbar:
